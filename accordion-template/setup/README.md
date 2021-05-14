@@ -18,3 +18,7 @@ const Component = () => {
   return <FaHome className='icon'></FaHome>;
 };
 ```
+
+
+can be seen >> https://accordion-site-21.netlify.app/
+
